@@ -1,6 +1,6 @@
   /**
          [ CREDITS ]
-         * Coding by @rifza.p.p
+         * Coding by @❤
          * @ YT : https://youtube.com/channel/UCEyVimXfcw-vL3TLSNxlyRQ
          * @ YT CHANNEL : Rifza123
          * @ WhatsApp : wa.me/6287708357324

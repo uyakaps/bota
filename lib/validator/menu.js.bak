@@ -1,20 +1,20 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-exports.menu = (AMOUNT, msg, prefix, runTime, botName, SETTING) => {
+exports.menu = (  msg, prefix, runTime, botName, ) => {
   return `*• USER-INFORMATION*
 username: _@${msg.pushName}_
 link: _https://wa.me/${msg.sender}_
 prefix_you_use: _${prefix}_
 
-ORIGINAL BASE BY RIFZA
+ORIGINAL BASE BY ❤
  *• BOT-INFORMATION*
 botname: _${SETTING.botname}_
 ownername: _${SETTING.ownername}_
 type: _WhatsApp-Bot • Multi - Device_
-module: _@adiwajshing/baileys_
+module: _@dika/baileys_
 runtime: _${runTime}_
-channel: https://youtube.com/channel/UCEyVimXfcw-vL3TLSNxlyRQ
+channel: https://youtube.com/channel/UCWypTAqhYCI45waiZg9T3Lg
  *• INSTRUCTION*
  ■ = Work
  ▢ = Eror
@@ -97,10 +97,7 @@ ${AMOUNT++}. ⇨ ${prefix + 'bugpayement'} ■
 ${AMOUNT++}. ⇨ ${prefix + 'bugdelete'} ■
 
 ${"```THANKS TO :````"}
-- @ꪶꫂꬅ꤃ϝᎥґꪜꫂ🅥 (creator)
-- @adiwajshing/baileys (module)
-- @DEFF
-- @FEBZABOTZ 
+- @08979174144 (creator)
 `
   }
 

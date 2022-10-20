@@ -1,15 +1,15 @@
 "use strict";
 const fs = require('fs')
 const chalk = require('chalk')
-global.ownerNumber = ["6283110928302","6287708357324","6289501060783"]
+global.ownerNumber = ["628979174144","628979174144","628979174144"]
 module.exports = {
   sesionName: "session",
   banchats: false,
-  botfullname: "Xilver-Moods • Multi Device",
-  botname: "Xilver-Moods",
-  ownername: "©RifzXM",
-  author: `'R'\n'I'\n'F'\n'Z'\n'A'`,
-  packname: `"Xilver-Moods"\n"Bot whatsapp Multi Device"\n"owner": "wa.me/6287708357324"\n"ig": "https://instagram.com/rifza.p.p"`,
+  botfullname: "RIKABOT • METAVERSE",
+  botname: "BOT METAVERSE",
+  ownername: "©❤",
+  author: `❤`,
+  packname: `"rika bot"\n"Bot whatsapp Multi Device"\n"owner": "wa.me/628979174144"\n"yt": "https://youtube.com/channel/UCWypTAqhYCI45waiZg9T3Lg"`,
   api:{
      removebg: ['zNKnayDFH1nugtA81fkPMzXn','5CyygkXiT5vrki2Z6ZsUCE8u','Mz4yJkagrCLotdgsr4Ms39ud','vEeWnzQws9kJoYNMYKhbT1s6','2arViktax9HUdMqy9U7wFLKT','sfZpRHNwVPAG57nZVHijYZ9v','oqVVyQ2rBDYdUrxThg4GdjhA','rGp4axHpQ56Y5tRLX7J789QC','NfPx6NgTkpVYLnKUZHCAM1P3'],//https://remove.bg/api
      unscreen: ['N6J4Bjbyh2V4eqhAPTWYtFER','fcKJkPstNXp4pjntYt3bR38E'],
