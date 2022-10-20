@@ -307,7 +307,7 @@ module.exports = async(msg, client, from, store) => {
              let doc = fs.readFileSync("./storage_cabinets/document/Xilver-Moods.whatsappBot.xlsx")
              let fileName = `${msg.sayingtime + msg.timoji + ' ' + msg.pushName}.xlsx`
              let fileLength = 77627262726
-             let caption = '© Rika X Metaverse - By @08979174144'
+             let caption = '© Rika bot - By @08979174144'
              let footer = menu(AMOUNT, msg, prefix, runTime, botName, SETTING)                                  
              let boddy = `Nodejs WhatsApp using @adiwajshing/baileys`
              let thumbnail = fs.readFileSync("./storage_cabinets/image/thumb.jpg")
